@@ -1,0 +1,56 @@
+body{
+  background-image: url('https://lz12v4f1p8c1cumxnbiqvm10-wpengine.netdna-ssl.com/wp-content/webpc-passthru.php?src=https://hookagency.com/wp-content/uploads/2015/11/subtle-grey-gradient-ui.jpg&nocache=1');
+  background-repeat: repeat;
+  background-size: 1950px;
+
+}
+
+nav{
+  background-color: gainsboro;
+  display: inline-block;
+  text-align: center;
+  float: none;
+  
+}
+.nav li :hover{
+  background-color: lightcoral;
+  color: blue;
+}
+li{
+  list-style-type: none;
+  float: left;
+  
+}
+li a {
+  display: block;
+  padding: 16px;
+  text-decoration: none;
+  color:azure;
+  
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+  
+}
+#title{
+  color: azure;
+  text-align: Left;
+  font-size: 50px;
+}
+.sum{
+  text-align: justify;
+  display: inline-block;
+  margin-right: 600px;
+  color: azure;
+}
+#tankimg{
+  width: 25%;
+  height: auto;
+}
+
+  
+
